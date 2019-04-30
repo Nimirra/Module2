@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Module2</string>
+    <string name="nextButton">NEXT</string>
+    <string name="activityA">Activity A</string>
+    <string name="activityB">Activity B</string>
+    <string name="activityC">Activity C</string>
+    <string name="activityD">Activity D</string>
+    <string name="activityE">Activity E</string>
+    <string name="activityF">Activity F</string>
+    <string name="permission_denied">Location permission required</string>
+    <string name="sharedtext">Shared text</string>
+    <string name="task_1">Task 1</string>
+    <string name="task_2">Task 2</string>
+    <string name="filepath">FilePath</string>
+    <string name="choose">CHOOSE</string>
+    <string name="send_via_email">SEND VIA EMAIL</string>
+    <string name="send_via_gmail">SEND VIA GMAIL</string>
+    <string name="task_3">Task 3</string>
+    <string name="fileSelectActivity">File select activity</string>
+</resources>

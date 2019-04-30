@@ -1,0 +1,40 @@
+ dumpsys activity activities | sed -En -e '/Running activities/,/Run #0/p'
+     Running activities (most recent first):
+      TaskRecord{c04d2b3 #5229 A=ru.obessonova.module2 U=0 StackId=1 sz=1}
+        Run #16: ActivityRecord{75a9f67 u0 ru.obessonova.module2/.ActivityF t5229}
+      TaskRecord{fb27070 #5228 A=ru.obessonova.module2 U=0 StackId=1 sz=1}
+        Run #15: ActivityRecord{acc3f9e u0 ru.obessonova.module2/.ActivityE t5228}
+      TaskRecord{3dc2fe9 #5227 A=ru.obessonova.module2 U=0 StackId=1 sz=1}
+        Run #14: ActivityRecord{8b7031 u0 ru.obessonova.module2/.ActivityD t5227}
+      TaskRecord{28f946e #5226 A=ru.obessonova.module2 U=0 StackId=1 sz=1}
+        Run #13: ActivityRecord{4d43f53 u0 ru.obessonova.module2/.ActivityC t5226}
+      TaskRecord{16fe70f #5225 A=ru.obessonova.module2 U=0 StackId=1 sz=1}
+        Run #12: ActivityRecord{e19ebcf u0 ru.obessonova.module2/.ActivityB t5225}
+      TaskRecord{9a6239c #5224 A=ru.obessonova.module2 U=0 StackId=1 sz=1}
+        Run #11: ActivityRecord{4daeac0 u0 ru.obessonova.module2/.ActivityA t5224}
+      TaskRecord{de98e20 #4363 A=com.android.incallui U=0 StackId=1 sz=1}
+        Run #10: ActivityRecord{91f4dff u0 com.android.incallui/.InCallActivity t4363}
+      TaskRecord{33331e #5126 A=android.task.contacts U=0 StackId=1 sz=1}
+        Run #9: ActivityRecord{1376168 u0 com.android.contacts/.activities.PeopleActivity t5126}
+      TaskRecord{c394b10 #5107 A=colornote.task.main U=0 StackId=1 sz=2}
+        Run #8: ActivityRecord{1e23d32 u0 com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.NoteEditor t5107}
+        Run #7: ActivityRecord{4101834 u0 com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.Main t5107}
+      TaskRecord{b0d7b3e #5204 A=com.instagram.android U=0 StackId=1 sz=1}
+        Run #6: ActivityRecord{964cf95 u0 com.instagram.android/com.instagram.mainactivity.MainActivity t5204}
+      TaskRecord{829c6d7 #5203 A=com.yandex.yang.androidapp U=0 StackId=1 sz=1}
+        Run #5: ActivityRecord{db2ccd5 u0 com.yandex.yang.androidapp/com.yandex.toloka.androidapp.MainActivity t5203}
+      TaskRecord{d3fb12e #5206 A=ru.yandex.music U=0 StackId=1 sz=1}
+        Run #4: ActivityRecord{84b105e u0 ru.yandex.music/.catalog.playlist.PlaylistActivity t5206}
+      TaskRecord{cb92ff9 #5205 A=ru.yandex.radio U=0 StackId=1 sz=2}
+        Run #3: ActivityRecord{44e353e u0 ru.yandex.radio/.ui.profile.ProfileActivity t5205}
+        Run #2: ActivityRecord{ac96fde u0 ru.yandex.radio/.ui.board.StationsBoardActivity t5205}
+      TaskRecord{b23f4f4 #5135 A=org.telegram.messenger U=0 StackId=1 sz=1}
+        Run #1: ActivityRecord{37e985a u0 org.telegram.messenger/org.telegram.ui.LaunchActivity t5135}
+      TaskRecord{c2a15ac #5104 A=com.android.chrome U=0 StackId=1 sz=1}
+        Run #0: ActivityRecord{3d20c9d u0 com.android.chrome/com.google.android.apps.chrome.Main t5104}
+    Running activities (most recent first):
+      TaskRecord{d90255f #1 A=com.huawei.android.launcher U=0 StackId=0 sz=1}
+        Run #0: ActivityRecord{aa9034f u0 com.huawei.android.launcher/.unihome.UniHomeLauncher t1}
+    Running activities (most recent first):
+      TaskRecord{97ffcf9 #4349 A=com.android.systemui U=0 StackId=5 sz=1}
+        Run #0: ActivityRecord{ab67aad u0 com.android.systemui/.recents.RecentsActivity t4349}
